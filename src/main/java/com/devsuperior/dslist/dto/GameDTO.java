@@ -6,8 +6,7 @@ import com.devsuperior.dslist.entities.Game;
 
 public class GameDTO {
 	
-private Long id;
-	
+	private Long id;	
 	private String title;
 	private Integer year;	
 	private String genre;	
